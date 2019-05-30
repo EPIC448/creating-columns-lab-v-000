@@ -58,9 +58,11 @@ img:hover {
 }
 
   .med {
+    float: left;
 
   }
 
     .large {
-      
+      float: left;
+
     }
